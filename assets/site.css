@@ -1,0 +1,8 @@
+.chatMessages tr {
+    background-color: antiquewhite;
+}
+
+.chatMessages th {
+    background-color: darkslategray;
+    color: white;
+}
